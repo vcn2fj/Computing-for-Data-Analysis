@@ -17,3 +17,18 @@
 <img width="535" height="283" alt="image" src="https://github.com/user-attachments/assets/c6fcf082-2a68-4cb8-9e4a-bb0695c651a9" />
 
 * Support is the joint prob of  x and y and confidence is the conditional probability of y given x
+
+* Issue is that in mining problem we are actually trying to find these rules
+  - Enumerate through unique loops, check for symmetry a=b or b=a are the same
+  - Counting pairs but also need counts for each item
+
+<img width="542" height="271" alt="image" src="https://github.com/user-attachments/assets/5817512e-c475-4661-a3f7-57f9e51d1979" />
+
+<img width="293" height="204" alt="image" src="https://github.com/user-attachments/assets/13728ae3-166d-4cc3-86f7-00ac9cdbfe06" />
+
+* Assessing efficiency: might do too much work/take too much storage
+
+* General way to think ab algorithm design rules
+  - Algorithm that scales linearly is work-optimal
+
+<img width="340" height="283" alt="image" src="https://github.com/user-attachments/assets/acb49a0b-9733-4e31-b019-8f9131b0ee60" />
