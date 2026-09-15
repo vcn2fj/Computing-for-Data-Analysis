@@ -23,3 +23,5 @@
   - They are marked by parentheses
  
 <img width="487" height="204" alt="image" src="https://github.com/user-attachments/assets/590b3ae6-606c-4b20-90db-f6395ba61c7a" />
+
+* SSN example: ^(\d{3})-(\d{2})-(\d{4})$
